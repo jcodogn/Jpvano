@@ -1,0 +1,8 @@
+{
+  "name": "JPVano - Enterprise Digital Sales Platform",
+  "description": "A complete SaaS platform for digital products featuring checkout, members area, affiliate management, and AI-powered sales copy generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
